@@ -18,6 +18,15 @@ body{
               var(--bg);
   color: var(--text);
 }
+/* .profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #4f46e5;
+  margin-bottom: 20px;
+} */
+
 
 a{ color: inherit; text-decoration: none; }
 a:hover{ text-decoration: underline; }
